@@ -1,5 +1,5 @@
 # SCWP
-### Scientific Computing with Python
+### Scientific Computing with Python Practices
 
 #### Table of Contents:
 * [Chapter_01: Vectors, Matrices and Multidimensional Arrays](src/Chapter_01.ipynb)
