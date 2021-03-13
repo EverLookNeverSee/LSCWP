@@ -1,8 +1,15 @@
 # SCWP
-### Scientific Computing with Python Practices
 
-#### Table of Contents:
-* [Chapter_01: Vectors, Matrices and Multidimensional Arrays](src/Chapter_01.ipynb)
-* [Chapter_02: Plotting and Visualization](src/Chapter_02.ipynb)
-* [Chapter_03: Equation Solving](src/Chapter_03.ipynb)
-* [Chapter_04: Sparse Matrices](src/Chapter_04.ipynb)
+## Scientific Computing with Python
+
+## Author:
+Milad Sadeghi DM : [@EverLookNeverSee](https://github.com/EverLookNeverSee)
+
+## Contents:
+* Vectors, Matrices and Multidimensional Arrays: [source code](src/Chapter_01.ipynb)
+* Plotting and Visualization : [source code](src/Chapter_02.ipynb)
+* Equation Solving : [source code](src/Chapter_03.ipynb)
+* Sparse Matrices: [source code](src/Chapter_04.ipynb)
+
+## License:
+MIT - [more details](LICENSE)
